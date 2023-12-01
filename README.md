@@ -1,18 +1,6 @@
-<a name="readme-top"></a>
-
-<div align="center">
-    <br/>
-
-# Hello Rails React One App
-
-</div>
-<!-- TABLE OF CONTENTS -->
-
 ## 📗 Table of Contents
 
-- [Hello Rails React One App](#hello-rails-react-one-app)
-  - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails React One App ](#-hello-rails-react-one-app-)
+- [📖 Hello Rails Backend ](#-hello-rails-backend-)
   - [🛠 Built With ](#-built-with-)
     - [Link to React Frontend](#link-to-react-frontend)
     - [Tech Stack ](#tech-stack-)
@@ -31,7 +19,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails React One App <a name="about-project"></a>
+# 📖 Hello Rails Backend <a name="about-project"></a>
 
 **Hello Rails React API** serves as the backend part of the **Hello Rails React One App**. This API provides random greetings fetched by the React front-end.
 
